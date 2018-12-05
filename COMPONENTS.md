@@ -1,3 +1,6 @@
+Back to README (Homepage) Click [HERE](README.md)
+Go to THEBUILD (The Actual Build) Click [HERE](THEBUILD.md)
+
 __First thing first, pick a CPU then pick a motherboard then pick everything else that is compatible with your CPU and motherboard.__
 
 The Components:
