@@ -1,5 +1,7 @@
-Back to README (Homepage) Click [HERE](README.md)
-Go to THEBUILD (The Actual Build) Click [HERE](THEBUILD.md)
+- Back to README (Homepage) Click [HERE](README.md)
+- Go to THEBUILD (The Actual Build) Click [HERE](THEBUILD.md)
+- Go to BUDGET (The Budget Build) Click [HERE](BUDGET.md)
+
 
 __First thing first, pick a CPU then pick a motherboard then pick everything else that is compatible with your CPU and motherboard.__
 
@@ -12,3 +14,4 @@ The Components:
 6. Storage Drives - For this you have two options: a Solid State Drive (SSD) or a Hard Disk Drive (HDD). SSDs are much faster than the HDD. HDDS are much larger and much slower. Depending on your motherboard you could have multiple storage drives and the more the better. 
 7. The Power Supply - this is what gives your computer the power it needs to run all of your components. 
 8. The Case - this is where all your components will be held. Make sure case can fit your motherboard and all the components you have chosen. 
+9. 

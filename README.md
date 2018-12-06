@@ -16,3 +16,7 @@ For your build you will only need a couple tools to assemble your PC.
 3. Another tool you could use is some pliers. These could be used to cut your zip ties and could be helpful if you need to pick something little up that is hard to grab.
 
 Click [HERE](THEBUILD.md) to show the steps taken to actually assemble your PC.
+
+So now you know what you need to build a PC and I have given you the steps on how to actually put together your PC. Now I will show you a example of a custom built PC. I am going to show you a budget friendly custom build. You can always look up the hefty builds, but this one will get you a good start.
+
+Click [HERE](BUDGET.md) for the budget friendly build.
